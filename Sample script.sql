@@ -1,3 +1,7 @@
+#Author: Vítor Witt Martin 
+#Creation Date: 08/2018/19
+
+
 CREATE DATABASE dbExercicio;
 
 USE dbExercicio;
